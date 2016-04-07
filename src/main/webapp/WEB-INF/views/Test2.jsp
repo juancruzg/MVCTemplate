@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a href = "goTest.html">Hello World</a>
-	<a href = "goTest2.html">Bye World</a>
+	${ mensaje }
 </body>
 </html>
